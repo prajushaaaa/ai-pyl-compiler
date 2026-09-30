@@ -1,0 +1,2 @@
+# Program with lexical error
+x = 10 @ 20

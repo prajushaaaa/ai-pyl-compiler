@@ -1,0 +1,15 @@
+# Basic .pyl test program covering all Phase 2A lexical tokens
+x = 10
+price = 10.5
+name = "Ginni"
+is_valid = True
+
+if x > 5 and is_valid:
+    total = (x + 2) * 3 / 1
+elif price != 0.0 or not is_valid:
+    total = price - 1.0
+else:
+    total = 0
+
+while x > 0:
+    x = x - 1

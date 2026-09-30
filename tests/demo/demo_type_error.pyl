@@ -1,0 +1,3 @@
+# Demonstration of semantic type mismatch error
+count = 10
+message = count + " items"

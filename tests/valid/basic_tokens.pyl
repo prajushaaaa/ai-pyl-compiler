@@ -1,0 +1,10 @@
+x = 10
+y = 20.5
+name = "Hello World"
+active = True
+
+z = x + 5
+result = y * 2
+
+if x > 5:
+    y = 30

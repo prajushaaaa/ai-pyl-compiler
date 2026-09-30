@@ -1,0 +1,8 @@
+x = 10
+y = 20
+z = x + y
+
+if z > 20:
+    result = z * 2
+else:
+    result = z - 2

@@ -1,0 +1,2 @@
+# Demonstration of parser syntax error (unexpected operator sequence)
+x = 10 + * 20

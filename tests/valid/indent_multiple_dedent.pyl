@@ -1,0 +1,6 @@
+if True:
+    if True:
+        if True:
+            x = 10
+
+y = 20

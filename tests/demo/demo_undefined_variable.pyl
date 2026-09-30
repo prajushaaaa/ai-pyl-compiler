@@ -1,0 +1,2 @@
+# Demonstration of undefined variable semantic error
+total = x + 10

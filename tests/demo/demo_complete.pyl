@@ -1,0 +1,27 @@
+# Complete .pyl Language Demonstration
+count = 3
+base = 10
+scale = 2.5
+
+# Arithmetic precedence and float operations
+score = base + 4 * 5
+weighted_score = score * scale
+
+# Boolean expressions
+is_valid = True
+can_proceed = (score > 20) and is_valid
+
+# Control flow: if / elif / else with nested while loop
+if can_proceed:
+    step = 0
+    while count > 0:
+        # Nested conditional inside while loop
+        if count > 1:
+            step = step + 2
+        else:
+            step = step + 1
+        count = count - 1
+elif score == 0:
+    base = 0
+else:
+    base = -1
